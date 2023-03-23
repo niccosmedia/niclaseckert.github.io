@@ -23,7 +23,7 @@ body {
 
 .hero-section-titles {
     color: #8EDCC1;
-    font-family: benzin-semibold;
+    font-family: 'benzin-semibold', sans-serif;
     padding-top: clamp(16px, 18vh, 20vh);
     padding-bottom: clamp(1rem, 6%, 5rem);
     position: relative;
