@@ -286,8 +286,8 @@ nav button:hover {
 
 @font-face {
     font-family: 'benzin-semibold';
-    src: url('Fonts/benzin_semibold-webfont.woff2') format('woff2'),
-        url('Fonts/benzin_semibold-webfont.woff') format('woff');
+    src: url('../Fonts/benzin_semibold-webfont.woff2') format('woff2'),
+        url('../Fonts/benzin_semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -298,8 +298,8 @@ nav button:hover {
 
 @font-face {
     font-family: 'benzin-regular';
-    src: url('Fonts/benzin_regular-webfont.woff2') format('woff2'),
-        url('Fonts/benzin_regular-webfont.woff') format('woff');
+    src: url('../Fonts/benzin_regular-webfont.woff2') format('woff2'),
+        url('../Fonts/benzin_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -310,8 +310,8 @@ nav button:hover {
 
 @font-face {
     font-family: 'benzin-mediumu';
-    src: url('Fonts/benzin_medium-webfont.woff2') format('woff2'),
-        url('Fonts/benzin_medium-webfont.woff') format('woff');
+    src: url('../Fonts/benzin_medium-webfont.woff2') format('woff2'),
+        url('../Fonts/benzin_medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -322,8 +322,8 @@ nav button:hover {
 
 @font-face {
     font-family: 'benzin-extrabold';
-    src: url('Fonts/benzin_extra_bold-webfont.woff2') format('woff2'),
-        url('Fonts/benzin_extra_bold-webfont.woff') format('woff');
+    src: url('../Fonts/benzin_extra_bold-webfont.woff2') format('woff2'),
+        url('../Fonts/benzin_extra_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -334,8 +334,8 @@ nav button:hover {
 
 @font-face {
     font-family: 'benzin-bold';
-    src: url('Fonts/benzin_bold-webfont.woff2') format('woff2'),
-        url('Fonts/benzin_bold-webfont.woff') format('woff');
+    src: url('../Fonts/benzin_bold-webfont.woff2') format('woff2'),
+        url('../Fonts/benzin_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
